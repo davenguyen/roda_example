@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (2.0.3)
+    roda (2.28.0)
+      rack
+    tilt (2.0.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  roda
+  tilt
+
+BUNDLED WITH
+   1.15.3
